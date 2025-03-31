@@ -142,6 +142,7 @@ Core Grammars:
 - fix(rust) fix for r# raw identifier not being highlighted correctly. [JaeBaek Lee][]
 - enh(rust) Adding union to be recognized as a keyword in Rust. [JaeBaek Lee][]
 - fix(yaml) fix for yaml with keys having brackets highlighted incorrectly [Aneesh Kulkarni][]
+<<<<<<< HEAD
 - fix(csharp) add raw string highlighting for C# 11. [Tara][]
 - fix(bash) fix # within token being detected as the start of a comment [Felix Uhl][]
 - fix(python) fix `or` conflicts with string highlighting [Mohamed Ali][]
@@ -178,6 +179,8 @@ New Grammars:
 - added 3rd party Phix grammar to SUPPORTED_LANGUAGES [PeteLomax][]
 - added 3rd party Mirth grammar to SUPPORTED_LANGUAGES [Sierra][]
 - added 3rd party JSONata grammar to SUPPORTED_LANGUAGES [Vlad Dimov][]
+=======
+>>>>>>> parent of d78749a5 (fix(bash): Comments false positives (#3918))
 
 Developer Tool:
 
@@ -202,6 +205,7 @@ Themes:
 [Kristian Ekenes]: https://github.com/ekenes
 [Aneesh Kulkarni]: https://github.com/aneesh98
 [Bruno Meneguele]: https://github.com/bmeneg
+<<<<<<< HEAD
 [Tara]: https://github.com/taralei
 [Felix Uhl]: https://github.com/iFreilicht
 [nataliia-radina]: https://github.com/Nataliia-Radina
@@ -228,6 +232,9 @@ Themes:
 [Sierra]: https://github.com/casuallyblue
 [Vlad Dimov]: https://github.com/DevDimov
 [Chiel van de Steeg]: https://github.com/cvdsteeg
+=======
+
+>>>>>>> parent of d78749a5 (fix(bash): Comments false positives (#3918))
 
 ## Version 11.9.0
 
