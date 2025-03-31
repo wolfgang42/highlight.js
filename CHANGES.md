@@ -149,7 +149,6 @@ Core Grammars:
 - enh(delphi) allow digits to be omitted for hex and binary literals [Jonah Jeleniewski][]
 - enh(delphi) add support for digit separators [Jonah Jeleniewski][]
 - enh(delphi) add support for character strings with non-decimal numerics [Jonah Jeleniewski][]
-- fix(javascript) incorrect function name highlighting [CY Fung][]
 - fix(1c) fix escaped symbols "+-;():=,[]" literals [Vitaly Barilko][]
 - fix(swift) correctly highlight generics and conformances in type definitions [Bradley Mackey][]
 - enh(swift) add package keyword [Bradley Mackey][]
@@ -209,8 +208,11 @@ Themes:
 [Robloxian Demo]: https://github.com/RobloxianDemo
 [Paul Tsnobiladzé]: https://github.com/tsnobip
 [Jonah Jeleniewski]: https://github.com/cirras
+<<<<<<< HEAD
 [Josh Goebel]: https://github.com/joshgoebel
 [CY Fung]: https://github.com/cyfung1031
+=======
+>>>>>>> parent of 063876f8 (fix(javascript) incorrect function name highlighting (#3940))
 [Vitaly Barilko]: https://github.com/Diversus23
 [Patrick Chiu]: https://github.com/patrick-kw-chiu
 [Alvin Joy]: https://github.com/alvinsjoy
@@ -226,7 +228,6 @@ Themes:
 [Sierra]: https://github.com/casuallyblue
 [Vlad Dimov]: https://github.com/DevDimov
 [Chiel van de Steeg]: https://github.com/cvdsteeg
-
 
 ## Version 11.9.0
 
